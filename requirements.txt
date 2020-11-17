@@ -1,3 +1,4 @@
+jupyter
 requests
 pandas
 pandas-ods-reader
